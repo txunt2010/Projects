@@ -4,11 +4,20 @@ https://public.tableau.com/profile/txunt2010#!/vizhome/RedWines1/Story1?publish=
 Second Attempt:
 https://public.tableau.com/profile/txunt2010#!/vizhome/RedWines2/Story1?publish=yes
 Summary:
-The visualizations demonstrate the relationship between volatile acidity and citric acid, pH and citric acid levels, free sulfur dioxide and total sulfur dioxide in terms of the overall quality of the red wine samples. The red wine data visualizations are derived from a dataset consisting of 1,599 samples of Portuguese "Vinho Verde" red wine.
+The visualizations demonstrate the relationship between volatile acidity and citric acid, pH and citric acid levels,
+free sulfur dioxide and total sulfur dioxide in terms of the overall quality of the red wine samples. The red wine 
+data visualizations are derived from a dataset consisting of 1,599 samples of Portuguese "Vinho Verde" red wine.
 
 Design
 
-For the first chart, a horizontal bar graph was used to display the amount of red wine samples that received a quality score of either 3,4,5,6,7, or 8. The remaining scatter plots initially had circles that were displayed in a blue monochrome fashion. This was later changed after receiving feedback about making the data points a solid point. This would help improve the visibility of the sequential range of the blue hue that had the low quality with the lower hues and increased the darkness as the quality increased. The use of a monochrome color scheme was also implemented to make sure any potential person that has color blindness could effectively see my charts. Trend lines were also added for each of the resulting quality values. The legend was also renamed as Wine Quality and matches the color hue to its corresponding quality value. 
+For the first chart, a horizontal bar graph was used to display the amount of red wine samples that received a 
+quality score of either 3,4,5,6,7, or 8. The remaining scatter plots initially had circles that were displayed 
+in a blue monochrome fashion. This was later changed after receiving feedback about making the data points a 
+solid point. This would help improve the visibility of the sequential range of the blue hue that had the low 
+quality with the lower hues and increased the darkness as the quality increased. The use of a monochrome color 
+scheme was also implemented to make sure any potential person that has color blindness could effectively see my charts. 
+Trend lines were also added for each of the resulting quality values. The legend was also renamed as Wine Quality 
+and matches the color hue to its corresponding quality value. 
  
 Feedback
 
